@@ -176,16 +176,3 @@ wandb/
 scripts/
 checkpoints/
 .vscode/
-.cursor/
-
-output/
-result/
-rec_jsons_processed/
-
-test/
-images_eval/
-*.zip
-*.txt
-runs/
-temps/
-src/open-r1-multimodal/src/open_r1/grpo_jsonl_ocr.py
